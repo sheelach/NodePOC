@@ -1,0 +1,23 @@
+{
+  "development": {
+    "host":"localhost",
+    "user":"mydatabase",
+    "password":"mypassword",
+    "database":"nodemysql",
+    "dialect": "mysql"
+  },
+  "test": {
+    "host":"localhost",
+    "user":"mydatabase",
+    "password":"mypassword",
+    "database":"nodemysql",
+    "dialect": "mysql"
+  },
+  "production": {
+    "host":"localhost",
+    "user":"mydatabase",
+    "password":"mypassword",
+    "database":"nodemysql",
+    "dialect": "mysql"
+  }
+}
